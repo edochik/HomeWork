@@ -1,9 +1,10 @@
-﻿int i = 0;
-int n = 7;
+﻿int n = 7;
+int i = -n+1;
 
 while (i < n)
+
 {
-   i++;
-   Console.Write(-i + " ");
+ 
    Console.Write(i);
+   i++;
 }
