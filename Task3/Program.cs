@@ -1,11 +1,11 @@
 ﻿
- int a = 2;
+ int a = 3;
 
 if(a % 2 == 0)
 {
-    Console.WriteLine("число четное");
+    Console.WriteLine("да");
 }
 else
 {
-    Console.WriteLine("число нечетное");    
+    Console.WriteLine("нет");    
 }
